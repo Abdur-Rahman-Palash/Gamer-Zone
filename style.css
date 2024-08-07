@@ -97,4 +97,32 @@ width: 35%;
 .gamer-image{
     width: 65%;
     }
+    .funny-videos{
+        margin: 30px auto;
+    }
+    .funny-videos-images{
+        display: flex;
+        gap: 40px;
+        justify-content: center;
+        align-items: center;
+    }
+    .funny-videos-text{
+        text-align: center;
+    }
+    .funny-videos-image-1 img{
+        width: 250px;
+        height: 250px;
+    }
+    .funny-videos-image-2 img{
+        width: 250px;
+        height: 250px;
+    }
+    .funny-videos-image-3 img{
+        width: 250px;
+        height: 250px;
+    }
+    .funny-videos-image-4 img{
+        width: 250px;
+        height: 250px;
+    }
 
